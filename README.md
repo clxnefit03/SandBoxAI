@@ -1,5 +1,5 @@
 # SandBoxAI
-<img src="https://github.com/clxnefit03/SandBoxAI/blob/main/Preview.png" width="1000px" /></a>
+<img src="https://github.com/clxnefit03/SandBoxAI/blob/main/Preview.png" width="500px" /></a>
 
 [![Site](https://img.shields.io/badge/SAAI-SAAI)](https://sandbox-ai.net/generate)
 
