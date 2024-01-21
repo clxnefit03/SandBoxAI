@@ -7,7 +7,7 @@ We present you a service for generating items in SandBox by means of artificial 
 
 
 ## Introduction
-**Welcome and a brief introduction to the business.**
+- **Welcome and a brief introduction to the business.**
 
 Greetings! Thank you for taking the time to read our whitepaper.
 
