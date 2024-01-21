@@ -5,7 +5,7 @@
 
 
 
-## Introduction
+## INTRODUCTION
 - **Welcome and a brief introduction to the business.**
 
 Greetings! Thank you for taking the time to read our "ReadMe".
@@ -20,7 +20,7 @@ During the training phase, the AI will analyze large datasets of 3D objects and 
 Once trained, the AI can generate pixelated versions of any 3D object based on the learned features. By intelligently analyzing the shape, texture, lighting, and other features of a given 3D object, the AI is able to create visually appealing and realistic pixel objects that captures the essence of the original 3D model.
 
 
-## How to do it?
+## HOW TO DO IT?
 ```
 1. The first thing you need to do is to go to our website.
 2. The second action you need to take is to click on "connect wallet."
