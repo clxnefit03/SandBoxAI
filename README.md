@@ -1,4 +1,6 @@
 # SandBoxAI
+<img src="https://github.com/clxnefit03/SandBoxAI/blob/main/Preview.png" width="1000px" /></a>
+
 [![Site](https://img.shields.io/badge/SAAI-SAAI)](https://sandbox-ai.net/generate)
 
 We present you a service for generating items in SandBox by means of artificial intelligence.
